@@ -157,4 +157,20 @@ output: 1 2 2
 - var are not block scoped like let
 - use let if you want console.log value that's with in the block;
 ```
+### TEMPLATE STRINGS
+- console.log(`the value of x = ${x}`
+
+### FAT ARROW
+``` javascript
+function add(a,b){
+  return a+b;
+}
+
+console.log(add(3,5));
+
+add = (a,b) => a+b
+
+```
+
+
 
