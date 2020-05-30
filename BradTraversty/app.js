@@ -1,17 +1,5 @@
- 
-// Number to String
+let val;
 
-//output 
-var date =  new Date();
-console.log("The current date");
-console.log(date);
+val = document;
 
-
-const Name = 'Rahul';
-const job = "ETL developer";
-const location = "Charlette";
-const futureJob = "Data Engineer";
-
-
-
-let html = '<ul><li>'+name+'</li></ul>'; 
+ console.log(val);
